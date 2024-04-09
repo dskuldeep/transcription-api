@@ -1,0 +1,4 @@
+__pycache__
+transcriptenv
+*.m4a
+.env
